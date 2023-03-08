@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "社会人士官方文档"
-  text: "了解关于社会人士避难所的一切"
+  text: "A VitePress Site"
   tagline: My great project tagline
   actions:
     - theme: brand
